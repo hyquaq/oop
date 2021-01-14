@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610639526 source:c:\users\python\documents\oop\exercise2\main.cpp
+	<iostream>
+
+1610640946 source:c:\users\python\documents\oop\exercise2\main1.cpp
+	<iostream>
+	<iostream>
+
