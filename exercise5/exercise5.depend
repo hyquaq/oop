@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610765252 source:c:\users\python\documents\oop\exercise5\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+
